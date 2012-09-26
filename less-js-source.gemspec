@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "less-js-source"
-  s.version     = '1.2.1'
+  s.version     = '1.3.0'
   s.authors     = ["Alexis Sellier"]
   s.email       = ["alexis@cloudhead.io"]
   s.homepage    = "http://lesscss.org"
